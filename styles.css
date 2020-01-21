@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+}
+#changeLetters {
+    display: none;
+}
+
+#sectionOne {
+    background-image: repeating-linear-gradient(blue,green);
+    width: 600px;
+    height:300px;
+    font-size: 30px;
+}
+
+#sectionTwo {
+    background-image: repeating-linear-gradient(yellow, red);
+    width: 600px;
+    height:300px;
+    display: none;
+    font-size: 40px;
+    text-transform: uppercase;
+}
